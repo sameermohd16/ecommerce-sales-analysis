@@ -1,4 +1,4 @@
--- Bussiness summary
+-- Business summary
 
 -- select count(*) as total_customers from customers
 -- select count(*) as total_orders from orders
@@ -12,13 +12,13 @@
 -- count( order_id) as total_orders from orders
 -- group by date_format(order_date, '%y-%m') 
 
--- Order Fullfilment  
+-- Order Fulfilment  
 
 -- select status,count(order_id) as total_orders 
 -- from orders
 -- group by status
 
--- month wise cancelled orders
+-- Month-wise cancelled orders
 
 -- select date_format(order_date,'%y-%m') as month,
 -- count(order_id) as cancelled_orders
@@ -68,7 +68,7 @@
 -- group by p.product_name
 -- order by total_units_sold desc
 
--- Slow miving products 
+-- Slow moving products 
 
 -- select p.product_name,sum(oi.quantity) as total_units_sold
 -- from order_items oi
@@ -77,7 +77,7 @@
 -- group by p.product_name
 -- order by total_units_sold asc
 
--- product catalog review 
+-- product catalogue review 
 
 -- select ca.category_name,count( p.product_id) as total_products
 -- from products p
@@ -111,7 +111,7 @@
 -- group by order_id
 -- order by total_units desc
 
--- Average number of products in single order
+-- Average number of products in a single order
 
 -- select order_id,round(avg(product_count),0) as avg_products
 -- from ( select order_id,count(distinct product_id) as product_count
