@@ -1,0 +1,40 @@
+
+1. Overall business summary by calculating the total number of customers, orders, products, categories, and units sold.
+
+2. Monthly order trends to understand customer purchasing activity over time.
+
+3. Distribution of orders based on their current status.
+
+4. Cancelled orders on a monthly basis to identify cancellation trends.
+
+5. States with the highest number of registered customers.
+
+6. Cities with the highest customer concentration.
+
+7. Most loyal customers based on the total number of orders placed.
+
+8. Customers who have placed only one order.
+
+9. Top selling products based on the total number of units sold.
+
+10. Least selling products based on the lowest number of units sold.
+
+11. Distribution of products across different categories.
+
+12. Product categories that contribute the highest sales volume.
+
+13. Customer orders containing the highest number of different products.
+
+14. Customer orders with the highest quantity of products purchased.
+
+15. Average number of different products purchased per order.
+
+16. Average number of product units purchased per order.
+
+17. Premium-priced products available in the product catalog.
+
+18. Lowest-priced products available in the product catalog.
+
+19. Average selling price of products across different product categories.
+
+20. Product performance report displaying each products category, price, and total units sold.

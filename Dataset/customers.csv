@@ -1,0 +1,101 @@
+customer_id,customer_name,city,state
+1,Priya Gupta,Chennai,Tamil Nadu
+2,Rahul Iyer,Bengaluru,Karnataka
+3,Vivaan Verma,Bengaluru,Karnataka
+4,Priya Iyer,Pune,Maharashtra
+5,Rohit Sharma,Ahmedabad,Gujarat
+6,Imran Reddy,Kolkata,West Bengal
+7,Vivaan Rao,Pune,Maharashtra
+8,Kavya Das,Delhi,Delhi
+9,Sameer Khan,Bengaluru,Karnataka
+10,Aarav Khan,Pune,Maharashtra
+11,Vivaan Khan,Bengaluru,Karnataka
+12,Sneha Gupta,Ahmedabad,Gujarat
+13,Aisha Iyer,Chennai,Tamil Nadu
+14,Priya Iyer,Mumbai,Maharashtra
+15,Aisha Gupta,Bengaluru,Karnataka
+16,Sameer Patel,Mumbai,Maharashtra
+17,Aditya Singh,Kolkata,West Bengal
+18,Kiran Rao,Mumbai,Maharashtra
+19,Aisha Iyer,Hyderabad,Telangana
+20,Rahul Sharma,Delhi,Delhi
+21,Sneha Gupta,Bengaluru,Karnataka
+22,Rahul Das,Delhi,Delhi
+23,Rahul Singh,Kolkata,West Bengal
+24,Arjun Singh,Chennai,Tamil Nadu
+25,Kiran Patel,Mumbai,Maharashtra
+26,Neha Rao,Pune,Maharashtra
+27,Neha Das,Kolkata,West Bengal
+28,Arjun Das,Kolkata,West Bengal
+29,Priya Khan,Chennai,Tamil Nadu
+30,Imran Singh,Bengaluru,Karnataka
+31,Rohit Sharma,Bengaluru,Karnataka
+32,Aditya Patel,Kolkata,West Bengal
+33,Sameer Reddy,Kolkata,West Bengal
+34,Sneha Das,Ahmedabad,Gujarat
+35,Imran Gupta,Hyderabad,Telangana
+36,Aisha Reddy,Pune,Maharashtra
+37,Rohit Iyer,Bengaluru,Karnataka
+38,Kiran Verma,Chennai,Tamil Nadu
+39,Ananya Sharma,Pune,Maharashtra
+40,Imran Patel,Bengaluru,Karnataka
+41,Kavya Gupta,Mumbai,Maharashtra
+42,Aditya Iyer,Chennai,Tamil Nadu
+43,Imran Rao,Hyderabad,Telangana
+44,Sameer Iyer,Ahmedabad,Gujarat
+45,Aarav Reddy,Delhi,Delhi
+46,Arjun Gupta,Mumbai,Maharashtra
+47,Aarav Khan,Bengaluru,Karnataka
+48,Vivaan Singh,Bengaluru,Karnataka
+49,Rohit Rao,Chennai,Tamil Nadu
+50,Aditya Singh,Chennai,Tamil Nadu
+51,Kiran Rao,Kolkata,West Bengal
+52,Rahul Rao,Mumbai,Maharashtra
+53,Neha Gupta,Kolkata,West Bengal
+54,Aisha Iyer,Ahmedabad,Gujarat
+55,Arjun Rao,Ahmedabad,Gujarat
+56,Vivaan Khan,Mumbai,Maharashtra
+57,Vivaan Iyer,Hyderabad,Telangana
+58,Sameer Rao,Mumbai,Maharashtra
+59,Sameer Khan,Hyderabad,Telangana
+60,Vivaan Sharma,Mumbai,Maharashtra
+61,Vivaan Sharma,Delhi,Delhi
+62,Vivaan Rao,Mumbai,Maharashtra
+63,Kiran Singh,Mumbai,Maharashtra
+64,Imran Patel,Ahmedabad,Gujarat
+65,Rahul Singh,Kolkata,West Bengal
+66,Rahul Reddy,Bengaluru,Karnataka
+67,Aisha Verma,Delhi,Delhi
+68,Sneha Verma,Ahmedabad,Gujarat
+69,Kavya Sharma,Bengaluru,Karnataka
+70,Aarav Verma,Delhi,Delhi
+71,Rohit Reddy,Mumbai,Maharashtra
+72,Rahul Khan,Ahmedabad,Gujarat
+73,Aditya Verma,Chennai,Tamil Nadu
+74,Kiran Singh,Mumbai,Maharashtra
+75,Kavya Reddy,Ahmedabad,Gujarat
+76,Rohit Rao,Bengaluru,Karnataka
+77,Aarav Rao,Hyderabad,Telangana
+78,Vivaan Khan,Chennai,Tamil Nadu
+79,Sneha Singh,Ahmedabad,Gujarat
+80,Rahul Verma,Hyderabad,Telangana
+81,Aditya Verma,Hyderabad,Telangana
+82,Sneha Gupta,Ahmedabad,Gujarat
+83,Kiran Verma,Ahmedabad,Gujarat
+84,Aditya Khan,Pune,Maharashtra
+85,Rahul Sharma,Hyderabad,Telangana
+86,Neha Iyer,Hyderabad,Telangana
+87,Aarav Das,Ahmedabad,Gujarat
+88,Imran Rao,Chennai,Tamil Nadu
+89,Aarav Rao,Bengaluru,Karnataka
+90,Kavya Patel,Bengaluru,Karnataka
+91,Sameer Reddy,Mumbai,Maharashtra
+92,Sneha Reddy,Mumbai,Maharashtra
+93,Sameer Das,Hyderabad,Telangana
+94,Sameer Reddy,Kolkata,West Bengal
+95,Aisha Das,Delhi,Delhi
+96,Arjun Gupta,Mumbai,Maharashtra
+97,Aisha Iyer,Mumbai,Maharashtra
+98,Kiran Verma,Chennai,Tamil Nadu
+99,Aisha Gupta,Ahmedabad,Gujarat
+100,Priya Reddy,Hyderabad,Telangana

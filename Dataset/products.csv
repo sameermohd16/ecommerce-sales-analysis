@@ -1,0 +1,31 @@
+product_id,product_name,category_id,price
+101,Wireless Mouse,1,499
+102,Keyboard,2,299
+103,USB Charger,3,999
+104,Mixer,4,799
+105,Bottle,5,799
+106,Running Shoes,6,699
+107,T-Shirt,7,499
+108,Python Book,8,2999
+109,Headphones,1,499
+110,Smart Watch,2,3499
+111,Backpack,3,1999
+112,Face Wash,4,299
+113,Rice Bag,5,299
+114,Phone Case,6,499
+115,LED Lamp,7,799
+116,Notebook,8,799
+117,Football,1,2999
+118,Hair Dryer,2,3499
+119,Power Bank,3,299
+120,Coffee Mug,4,2999
+121,Bluetooth Speaker,5,799
+122,Desk Chair,6,2999
+123,Yoga Mat,7,1999
+124,Jeans,8,799
+125,Cookware Set,1,2499
+126,Laptop Stand,2,3499
+127,Pendrive,3,999
+128,Webcam,4,299
+129,Monitor,5,699
+130,Router,6,1999
