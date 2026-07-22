@@ -1,0 +1,149 @@
+1
+total 100 customers
+total 500 orders
+total 30 products
+total 8 categories
+total 2491 units sold
+
+This business have good active customers with consistent order activity of diverse product catalog with different categories.
+
+Increase the customer base through consistent update in products catalog for future growth.
+
+2
+total 68 orders were placed in January and gradually increasing till march.
+sudden increase of orders was seen in march with 99 then remained good with ups and downs around 90 till June.
+
+The customers placed order activity increased consistently till march and then remained stable with minimal fluctuations till June
+
+Investigate the reason for sudden increase of orders in march to expand the business with repeated strategies.
+
+
+3
+around 90 % of orders i.e. 408 were delivered successfully.
+49 were pending and 43 were cancelled
+
+High delivery rate indicates the customer fulfillment while pending and cancelled orders should be monitored closely
+
+Investigate the root cause for pending and cancellations of products to improve operational performance while maintaining enough inventory.
+
+4
+order cancellations increased from Feb. i.e. 6 to march i.e. 10 and reduced to 5 next two months and sudden increase in cancellation in June i.e. 15 orders
+
+March and June months have comparatively more cancellations than other months
+
+Review the cancellations closely to identify the root cause and improve operational performance
+
+
+5
+
+Maharashtra 25 and Karnataka 17 states have 42 %  of total customers
+followed by Gujarat 15,ts 12,tn 12 which is 39 % of total customers
+Delhi 8 and west Bengal 11 have less customers
+
+Customer concentration is huge in few states comparing to remaining states
+
+Increase the marketing campaigns in states with less customer concentration
+
+6
+Mumbai 18 and Bangalore 17 cities have more customers i.e. 36% 
+followed by Ahmedabad 15,Chennai 12,hyd 12 which is 39 %
+Kolkata 11 and Delhi 8 have low customers
+
+Increase marketing campaigns in low customer concentration cities.
+
+7 
+Only few customers have placed a higher number of orders of 10 while majority placed orders between 5 - 6
+
+We need to encourage the loyal customers with customer offers and special discounts
+
+we need to promote the product bundling which increases order activity and review the pricing.
+
+8
+Very least number of customers have placed only 1 order while many others placed multiple orders.
+
+Encourage new customers with special coupons and review the customer product suggestions
+
+9
+Cookware set is the highest selling product with total 111 units followed by led lamp 105,bottle 103,power bank 94 yoga mat 92.
+most of the products sold between 80 - 90 which indicates the these products have good demand in market and stable during sales.
+
+Increase the stock of repeated products in inventory and investigate the low selling products 
+
+10
+we need to focus on products like t shirts, coffee mug, routers and products with units less than 70.
+
+we should promote the products and increase marketing campaigns and review the reason for low selling products
+
+
+11
+Distribution of products across all categories is even
+has various product categories listed which makes customers choose across various categories
+
+while maintaining the stock we need to increase on various product catalog further to attract customer needs
+
+12
+Electronics 356 and Sports 350 categories have sold highest number of product units
+5 categories have sold there units above 300 which tells that product selling is even and maintained properly
+categories like beauty 295, groceries 257, accessories 237 have less units sold
+
+Few categories have significant orders while comparing to other categories.
+
+Investigate the categories with less orders and review products performance. Increase the stock in high return categories.
+
+13
+Highest total number of products purchased in each order is 4
+Many customers have brought 1 product in each order
+
+Only limited customers have purchased more products while many ordered single product.
+
+Encourage the customers with early offers and promote the products through advertisements
+
+14
+Highest quantity of products purchased in order-id 1162 is 12.
+Followed by few products with total units of 11
+
+Few products have higher order rate than majority of products have average order rate
+
+Increase the availability of high selling products in inventory while investigate the reasons for low selling products like customers engagement
+
+15
+
+The average number of products placed in each order is 2.39
+
+16
+
+The average number of units sold per order is 4.98
+
+17
+
+Products like smart watch, hair dryer, laptop stand are costly i.e. 3499rs
+Followed by few products cost at 2500rs 
+
+Product catalog has various premium products so that customers have diverse products to buy
+
+Include more products to the catalog to similar category and increase the stock
+
+18 
+
+Products like keyboard, face wash, rice bag, power bank, webcam are cheaper in the product catalog
+Product catalog has listed both cheaper and premium products which tells that customers can purchase the products according to there needs and budget
+
+maintain the diversity of products in catalog and review the product performance over time
+
+19
+
+Home category has the highest average price of product i.e. 2699rs and followed by electronics 1624rs
+
+Categories like sports and fashion have least average product price of 650rs and 1074rs respectively.
+
+Products in home categories are premium then remaining categories.
+Most of the categories have average product price around 1000rs.
+Business includes the premium categories as well as cheaper categories so that customers have diverse option to purchase various products
+
+20
+
+Cookware set recorded highest product units sold 111,followed by LED lamp of 105 units, Bottle of units 103.Most of the products units sold were in between 75 to 111 which indicates that relative consistent sales in product catalog without depending on only high selling products.
+
+Premium products have less units sold than mid range products.
+
+Continue maintaining the high  demand product stock in inventory while continuously monitoring the product performance.
